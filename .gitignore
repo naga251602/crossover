@@ -1,0 +1,4 @@
+harness/build/
+__pycache__/
+llama.cpp/
+*.o
